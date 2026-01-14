@@ -1,0 +1,35 @@
+h1{
+    background-color:rgb(140, 31, 235) ;
+    color:rgb(255, 255, );
+}
+body{
+    background-color: rgb(228, 214, 243);
+}
+ul{
+    color: aqua;
+}
+ol{
+    background-color: rgb(193, 135, 217);
+    color: rgb(27, 44, 4);
+}
+ul{
+    background-color: rgb(87, 87, 183);
+} 
+table{
+    background-color: rgb(150, 0, 100);
+}
+.abc{
+    background-color: rgb(228, 231, 246) ;
+}
+strong{
+    color: rgb(79, 41, 184);
+}
+.exam{
+    padding: 10%; margin: 15%;
+}
+.mno{
+    padding: 10%; margin: 15%;
+}
+.def{
+    color: lightgreen;
+}
