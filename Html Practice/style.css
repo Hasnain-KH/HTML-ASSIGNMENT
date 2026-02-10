@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .box1{
+    width: 700px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+}
+.box2{
+    width: 1000px;
+    height: 200px;
+    background-color: rgb(24, 53, 218);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(214, 236, 10);
+    
+} */
+
+/* .box4{
+    width: 300px;
+    height: 300px;
+    background-image: url(asserts/facbook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+
